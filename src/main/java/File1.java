@@ -4,5 +4,6 @@
 public class File1 {
     public File1(){
         int i = 4;
+		int i = 0;
     }
 }
